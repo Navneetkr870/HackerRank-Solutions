@@ -1,2 +1,2 @@
 # HackerRank-Python-Solutions
- HackerRank Python and Problem Solving Solutions
+ Python and Problem Solving Solutions
